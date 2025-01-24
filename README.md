@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 # 💫 About Me:
 <br><br># 👨‍💻 Ankush Joshi  <br><br>Computer Engineering Graduate<br>3-Year Polytechnic Diploma | Himachal Pradesh*  <br><br>---<br><br>## About Me  <br>I am a passionate and goal-oriented computer engineering graduate with a strong foundation in software development and programming. My expertise includes crafting clean, efficient code and delivering impactful solutions to technical challenges. I am always eager to learn and explore emerging technologies to enhance my skills and contribute to innovative projects.  <br><br>---<br><br>## 💼 Technical Skills  <br>### **Programming Languages:**  <br>- JavaScript  <br>- PHP  <br>- C  <br>- C++  <br>- Java  <br><br>### **Web Development:**  <br>- HTML  <br>- CSS  <br><br>### Core Competencies:<br>- Problem-solving and logical thinking  <br>- Strong understanding of algorithms  <br>- Passion for continuous learning and growth  <br><br>---<br><br>## 🤝 Let’s Connect  <br>I am open to collaborating on exciting projects and exploring professional opportunities. Feel free to check out my repositories and reach out!  <br>
 
